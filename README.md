@@ -15,6 +15,12 @@ Instead of using static images or GIFs, all characters and animations in this pr
 
 ## 👥 Meet the Crew
 
+<div align="center">
+  <img src="luffy_preview.png" width="200" alt="Luffy">
+  <img src="zoro_preview.png" width="200" alt="Zoro">
+  <img src="sanji_preview.png" width="200" alt="Sanji">
+</div>
+
 1. **Monkey D. Luffy:**
    - **Water Reminder:** Reminds you to drink water every 30 minutes of active screen time.
    - **Stretch Reminder:** Reminds you to stand up and stretch every 60 minutes.
