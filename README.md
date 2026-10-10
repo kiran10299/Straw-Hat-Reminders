@@ -1,8 +1,16 @@
 # Straw Hat Desktop Reminders ☠️👒
 
-A fully animated, interactive desktop companion and health reminder application for Windows, featuring your favorite characters from One Piece. Built entirely in Python!
+<p align="left">
+  <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.7+" /></a>
+  <a href="https://riverbankcomputing.com/software/pyqt/"><img src="https://img.shields.io/badge/GUI-PyQt5%20QPainter-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt5" /></a>
+  <a href="https://github.com/kiran10299/Straw-Hat-Reminders"><img src="https://img.shields.io/badge/Graphics-100%25%20Procedural%20Vector-ff4655?style=for-the-badge" alt="Procedural Vector" /></a>
+  <a href="https://microsoft.com/windows"><img src="https://img.shields.io/badge/Platform-Windows%20API%20%7C%20Ctypes-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" /></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-f59e0b?style=for-the-badge" alt="MIT License" /></a>
+</p>
 
-Instead of using static images or GIFs, all characters and animations in this project are generated **procedurally using vector graphics (QPainter)** and a custom skeletal animation system. This allows for smooth, dynamic animations, secondary motion (like clothes and hair blowing in the wind), and interactive features.
+A fully animated, interactive desktop companion and ergonomic health reminder application for Windows, featuring **Monkey D. Luffy, Roronoa Zoro, and Sanji** from One Piece. Built entirely in Python!
+
+Instead of using static images or pre-rendered GIFs, all characters and animations in this project are generated **procedurally in real-time using mathematical vector graphics (QPainter)** and a custom skeletal animation system. This allows for fluid multi-layer animations, secondary cloth & hair physics, Busoshoku Haki transitions, and live drag-and-drop interactivity.
 
 ## ✨ Features
 
